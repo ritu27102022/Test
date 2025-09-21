@@ -12,4 +12,9 @@ public class A
 	   System.out.println("This is b method");
    }
 
+	public void c()
+	{
+		System.out.Println("This is c method");
+	}
+
 }
