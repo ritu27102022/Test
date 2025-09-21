@@ -1,3 +1,4 @@
+
 package com.service;
 
 public class A 
@@ -15,6 +16,11 @@ public class A
 	public void c()
 	{
 		System.out.Println("This is c method");
+	}
+
+	public void d()
+	{
+		System.out.println("This is d method");
 	}
 
 }
