@@ -6,5 +6,10 @@ public class A
    {
 	   System.out.println("This is a method");
    }
+   
+   public void b()
+   {
+	   System.out.println("This is b method");
+   }
 
 }
