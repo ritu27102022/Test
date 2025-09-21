@@ -22,5 +22,9 @@ public class A
 	{
 		System.out.println("This is d method");
 	}
+	public void e()
+	{
+		System.out.println("This is e method");
+	}
 
 }
